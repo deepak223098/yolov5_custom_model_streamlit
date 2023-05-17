@@ -3,5 +3,7 @@
 # cd yolov5
 # pip install -r requirements.txt  # install
 # use: 
-## activete your venv
-## streamlit run logo_detection_app.py 
+## 1. activete your venv
+## 2. streamlit run .\logo_detection_app.py
+# Done
+# Thank You
